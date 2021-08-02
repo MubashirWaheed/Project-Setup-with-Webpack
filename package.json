@@ -2,7 +2,7 @@
   "name": "projectwebpack",
   "version": "1.0.0",
   "description": "learning hoe to create project\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[w",
-  "private":true,
+  "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/MubashirWaheed/Project-Setup-with-Webpack/issues"
   },
-  "homepage": "https://github.com/MubashirWaheed/Project-Setup-with-Webpack#readme"
+  "homepage": "https://github.com/MubashirWaheed/Project-Setup-with-Webpack#readme",
+  "devDependencies": {
+    "webpack": "^5.47.1",
+    "webpack-cli": "^4.7.2"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
